@@ -9,7 +9,7 @@ Most of the time technical documentation is not enough to understand the nuances
 Internal chat group or Q&A portal or have to wait for response from someone who has expertise.
 # Current AI Solution:
 Chat bots with generic solution capability with high cost.
-# Hack AI Solution: 
+# Castronaut AI Solution: :crystal_ball: :scream_cat:
 - Phase 1 - fine tuning with techstack and project documentation 
 - Phase 2 - Chat and Q&A through AI enabled platform which trains the model for more specific results and keep enhancing the model capability as the project progresses.
 - Phase 3 - The bot become the collaborator to identify exact problem or solution by cross-questioning and helping people to get things done faster.
