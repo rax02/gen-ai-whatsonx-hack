@@ -7,7 +7,9 @@ Learning curve to start with a new project, specially in large enterprise, is ex
 Most of the time technical documentation is not enough to understand the nuances of the project. 
 # Traditional solution:
 Internal chat group or Q&A portal or have to wait for response from someone who has expertise.
-# AI Solution: 
+# Current AI Solution:
+Chat bots with generic solution capability with high cost.
+# Hack AI Solution: 
 - Phase 1 - fine tuning with techstack and project documentation 
 - Phase 2 - Chat and Q&A through AI enabled platform which trains the model for more specific results and keep enhancing the model capability as the project progresses.
 - Phase 3 - The bot become the collaborator to identify exact problem or solution by cross-questioning and helping people to get things done faster.
