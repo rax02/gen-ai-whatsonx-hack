@@ -1,6 +1,7 @@
 ## gen-ai-whatsonx-hack
 
 # How can generative AI technology improve the productivity of an important everyday activity?
+**Devs don't like Docs.**
 Reduce KT time , Faster Onboarding to project , quicker bug identification and resolution
 # Use case: 
 Learning curve to start with a new project, specially in large enterprise, is extremely steep. Even for day to day collaboration, it is extremely difficult for the teams which are distributed around the world.
